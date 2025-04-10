@@ -18,7 +18,7 @@ A simulated analysis of Medicaid claims data to identify cost trends, outliers, 
 ## 🚀 How to Run
 ```bash
 git clone https://github.com/courtneyclo/medicaid-claims-analysis.git
-pip install pandas numpy matplotlib sqlite3
+pip install pandas numpy matplotlib jupyter
 jupyter notebook medicaid_analysis.ipynb
 ```
 
