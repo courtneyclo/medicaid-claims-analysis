@@ -22,6 +22,9 @@ pip install pandas numpy matplotlib jupyter
 jupyter notebook medicaid_analysis.ipynb
 ```
 
+Directly on Browser:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/courtneyclo/medicaid-claims-analysis/HEAD)
+
 ## 📈 Sample Output
 ![Monthly Cost Trends](medicaid_monthly_trends.png)
 ![Claims Cost Distribution](medicaid_cost_distribution.png)
