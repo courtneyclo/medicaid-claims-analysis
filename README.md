@@ -23,8 +23,7 @@ jupyter notebook medicaid_analysis.ipynb
 ```
 
 Directly on Browser:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/courtneyclo/medicaid-claims-analysis/HEAD)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/courtneyclo/medicaid-claims-analysis/HEAD?labpath=notebook%2Fmedicaid_analysis.ipynb)
 ## 📈 Sample Output
 ![Monthly Cost Trends](medicaid_monthly_trends.png)
 ![Claims Cost Distribution](medicaid_cost_distribution.png)
