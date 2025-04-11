@@ -23,7 +23,8 @@ jupyter notebook medicaid_analysis.ipynb
 ```
 
 ## 📈 Sample Output
-![Monthly Cost Trends](cost_trends.png)
+![Monthly Cost Trends](medicaid_monthly_trends.png)
+![Claims Cost Distribution](medicaid_cost_distribution.png)
 
 ## 🔗 Connect
 [LinkedIn](https://linkedin.com/in/courtneylo) | Email: courtneylo08@yahoo.com
