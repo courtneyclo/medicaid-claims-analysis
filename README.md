@@ -28,7 +28,6 @@ jupyter notebook medicaid_analysis.ipynb
 
 ## Tableau Visualizations
 ![Monthly_Cost_Trends](Tableau_Cost_Trend.png)
-![Claims_Cost_Distribution](Tableau_Cost_Distribution.png)
 
 ## 🔗 Connect
 [LinkedIn](https://linkedin.com/in/courtneylo) | Email: courtneylo08@yahoo.com
